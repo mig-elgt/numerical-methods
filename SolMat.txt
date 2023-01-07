@@ -1,0 +1,2 @@
+Eliminacio de Gauss 580 190 855 240
+Metodo de Gauss Jordan 580 241 855 291

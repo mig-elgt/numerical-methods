@@ -1,0 +1,6 @@
+Iteracion Simple 580 131 855 181
+Biseccion 580 182 855 232
+Regula Falsi 580 233 855 283
+Secante 580 284 855 334
+Newton Raphson 580 335 855 385
+Newton Raphson mejorado 580 386 855 436

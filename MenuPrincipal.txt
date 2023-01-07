@@ -1,0 +1,11 @@
+Menu 20 30 100 80
+Solucion de Ecuaciones no lineales 20 131 560 181
+Soluciones de Sistemas de Ecuaciones Lineales 20 182 560 232
+Interpolacion Numerica 20 233 560 283
+Ajuste de Curvas 20 284 560 334
+Ecuaciones Diferenciales 20 335 560 385
+Derivacion Numerica 20 386 560 436
+Solucion de Ecuaciones Diferenciales Ordinarias 20 437 560 487
+Solucion de Ecuaciones Diferenciales Parciales 20 488 560 538
+Acerca de 20 539 560 589
+Salir 20 590 560 640

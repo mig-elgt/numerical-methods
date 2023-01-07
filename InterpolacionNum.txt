@@ -1,0 +1,3 @@
+Metodo de Interpolacion Lineal 580 233 1020 283
+Polinomio de interpolacion de Lagrange 580 284 1020 334
+Metodo de Diferencias Divididas 580 335 1020 385
